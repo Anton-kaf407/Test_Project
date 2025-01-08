@@ -1,2 +1,5 @@
 Test git.
+<<<<<<< Updated upstream
 Изменение 1.
+=======
+>>>>>>> Stashed changes
